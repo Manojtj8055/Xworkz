@@ -1,0 +1,175 @@
+Aptitude:-
+
+1. a)29
+2. c)20
+3. a)100
+4. c)63
+5. c)43
+6. b)K
+7. a)P
+8. b)FR
+9. c)bccab
+10.a)GOV
+11. 2
+12. 49
+13. Window
+14. Sun
+15. HJ
+
+
+**********************************************************************************************************************************************************
+JAVA :-
+
+1) Java is a programming language used to solve the real world problems .
+Its used for developing software for people to make thier works easy and to solve real time problems
+javac- Is a java compiler present in JVM (Java Virtual Machine).
+
+************************************************************************************************************
+
+2) JDK:Java Development Kit.
+   JRE:Java Runtime Envimronment.
+   JVM:Java Virtual Machine.
+   
+   
+***********************************************************************************************************
+3)The size of the array cannot be increased or decreased once it is declared arrays have a fixed size.
+  Java cannot store mixed data. It can only store a single type of primitives.
+  
+************************************************************************************************************
+4)Class:- used to generate byte code
+  Object:-is the base class 
+  Signature of class:-combination of name and list of formal type parameters.
+  
+*****************************************************************************************************************
+5)Array is a container object that holds a fixed number of values of one type.
+ The length of an array is established when the array is created. After creation, its length is fixed.
+ 
+ *************************************************************************************************************
+ 6)
+ 
+              .java file          |			  .class file
+> is used for compiling the code  |>class files run on JVM to execute a JAVA 
+using compiler.					  |applications.
+>it consists of source code.      |> it consists of Java byte code after compiling.
+								  |
+								  
+*******************************************************************************************************************
+
+7) The length of the array data is '6'.
+
+********************************************************************************************************************
+
+8) In Java, a method signature consists of the method name and the parameter types.
+   ex:returntype methodname(parametertype1,parametertype2....)
+   
+*****************************************************************************************************************								  
+9) Java is an object oriented language(OOC) which helps to solve real time problems .
+Java used in various domains such as web development ,mobile development,and large scale products,
+
+*******************************************************************************************************
+
+10)A variable is an location where we can store the values and it can be changed while execution depending 
+on the developers use.
+   
+    >Primitive type:-
+	it stores the values like numbers(0-9),special characters($),Decimals(3.4),Boolean values(1F31)
+	
+    
+	>Reference type:-
+	it stores values of 
+	String :-characters
+	Arrays :-elements of same type
+	Class:-class type
+	Object:-instance of class
+	
+	
+    >User-defined type:- Developers can define their own classes and create variables of those types.
+	
+***************************************************************************************************************
+
+11) In java class variable is called as static variable or static member that belongs to class itself and not 
+    in other instance of class and can be called directly by class name.
+	
+	
+*******************************************************************************************************************
+
+12)A Data-Type defines that it is an kind of value that variable carries .gives some range of values that can be 
+   placed in an variable an some of the Data-Types are 
+ 
+  >byte
+  >short
+  >int
+  >long
+  >float
+  >double
+  >boolean
+  >char
+  >String
+  >array 
+  >class
+  >object
+
+***********************************************************************************************************************
+
+13) JAVA FEATURES:-
+ 
+ >Object Oriented
+ >Platform Independence
+ >Security
+ >Exception Handling
+ >Multi-Threading
+ >In-built Linbraries
+ 
+ ************************************************************************************************************************
+ 
+ 14)Types of ARRAY in JAVA:-
+ Single Dimensional ARRAY
+ Multi Dimensional ARRAY
+ 
+ ************************************************************************************************************************
+ 
+ 15)here with an example
+ 
+     int[]numbers ={1,2,3,4,5,6}
+	 int value=numbers[7];
+	 
+	 However, the code tries to access the element at index 7,but it is beyond the value so it cannot print the value so 
+	 it gives array index out of bound exception.
+	 
+**************************************************************************************************************************
+
+16)System.out.println()is a statement to print the value of the given input.
+
+*****************************************************************************************************************************
+
+17) == this operator is used for equal operations in java where 1=1 is not taken by the JVM so 1==1 is the correct format.
+
+******************************************************************************************************************************
+
+18)Dot Opereator:-
+It is used call the method from other stream where we can reduce the main code lines by having code in some other files and
+ we can import it from there/.
+ 
+********************************************************************************************************************************
+
+19)OBject class is the base class of all classes
+
+********************************************************************************************************************************
+
+20)class
+   public
+   void
+   static
+   for
+   new
+   returntype
+   protected
+   private
+   if
+   else
+
+*********************************************************************************************************************************
+
+
+   
+  
