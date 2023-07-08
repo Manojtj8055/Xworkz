@@ -1,0 +1,164 @@
+                                                                                                                              APTITUDE   TEST  --  2
+
+1) Grandfather
+
+2) Grandfather
+
+3) Sister
+
+4) Brother
+
+5) Son-in-law
+
+6) X*A+Y
+
+7) R
+
+8) Brother
+
+9)Father
+
+10) S
+
+11)10kms
+
+12) South
+
+13) North-East
+
+14) South-East
+
+//////////////////////////////////////////////////////////////////////*********************************************************************//////////////////////////////////////////////////////////////////////////////////////////
+
+                                                                                                                                 JAVA -- 2
+1) True.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2) 10,110
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3)True.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4)Main method acts as an enty point of a java program without creating an instance of class it can accesible to the JVM.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5)	
+
+import java.util.Arrays;
+
+public class ReverseArray {
+    public static void main(String[] args) {
+        int[] inputArray = {10, 45, 7, 9, 2};
+
+        System.out.println("Original Array: " + Arrays.toString(inputArray));
+
+        reverseArray(inputArray);
+
+        System.out.println("Reversed Array: " + Arrays.toString(inputArray));
+    }
+
+    public static void reverseArray(int[] arr) {
+        int start = 0;
+        int end = arr.length - 1;
+
+        while (start < end) {
+	  
+            int temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
+
+            start++;
+            end--;
+        }
+    }
+}
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+7) Done
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+8) this = Is a keyword in Java that refers to the current object instance.
+             It is used to refer to the instance variables, methods, and constructors of the current class.
+   
+    this() = Is used to invoke a constructor from another constructor within the same class.
+                It is used to reuse code and maintain constructor chaining. 
+                It must be the first statement in the constructor.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9) Swapping Numbers without using third variable.
+
+public class SwapNumbers {
+    public static void main(String[] args) {
+        int a = 5;
+        int b = 10;
+
+        System.out.println("Before swapping:");
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+
+        a = a + b; 
+        b = a - b; 
+        a = a - b; 
+
+        System.out.println("After swapping:");
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+    }
+}
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+10) 
+class Pattern{
+public static void main(String [] args){
+	System.out.println("&                         &");    
+	System.out.println("              &");
+	System.out.println("&                         &");     
+	
+	}
+}
+
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11)
+
+class Pattern1{
+public static void main(String [] args){
+	System.out.println("% % %");    
+	System.out.println("% & %");
+	System.out.println("% % %");     
+	
+	}
+}
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+12)
+
+class Pattern2{
+public static void main(String [] args){
+	System.out.println("% % %");    
+	System.out.println("%   %");
+	System.out.println("% % %");     
+	
+	}
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
