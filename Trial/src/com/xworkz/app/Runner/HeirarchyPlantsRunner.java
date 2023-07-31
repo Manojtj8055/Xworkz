@@ -1,7 +1,7 @@
 package com.xworkz.app.Runner;
 
-import com.xworkz.app.Flower;
-import com.xworkz.app.Vegetable;
+import com.xworkz.app.heirarchy.Flower;
+import com.xworkz.app.heirarchy.Vegetable;
 
 public class HeirarchyPlantsRunner {
 

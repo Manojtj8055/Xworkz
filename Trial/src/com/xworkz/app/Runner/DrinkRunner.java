@@ -1,6 +1,6 @@
 package com.xworkz.app.Runner;
 
-import com.xworkz.app.CocoCola;
+import com.xworkz.app.single.CocoCola;
 
 public class DrinkRunner {
 

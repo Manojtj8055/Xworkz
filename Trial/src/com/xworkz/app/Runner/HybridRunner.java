@@ -1,9 +1,9 @@
 package com.xworkz.app.Runner;
 
-import com.xworkz.app.Goa;
-import com.xworkz.app.India;
-import com.xworkz.app.Karnataka;
-import com.xworkz.app.Shimoga;
+import com.xworkz.app.hybrid.Goa;
+import com.xworkz.app.hybrid.India;
+import com.xworkz.app.hybrid.Karnataka;
+import com.xworkz.app.hybrid.Shimoga;
 
 public class HybridRunner {
 

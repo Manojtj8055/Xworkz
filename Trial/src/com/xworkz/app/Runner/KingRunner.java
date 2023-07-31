@@ -1,6 +1,6 @@
 package com.xworkz.app.Runner;
 
-import com.xworkz.app.Soldier;
+import com.xworkz.app.multi.Soldier;
 
 public class KingRunner {
 

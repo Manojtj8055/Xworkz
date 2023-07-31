@@ -1,6 +1,6 @@
 package com.xworkz.app.Runner;
 
-import com.xworkz.app.Gun;
+import com.xworkz.app.constructoroverloading.Gun;
 
 public class ConstructorOverLoadingGunRunner {
 

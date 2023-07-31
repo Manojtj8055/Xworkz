@@ -1,4 +1,4 @@
-package com.xworkz.app;
+package com.xworkz.app.Finalinit;
 
 public class Final {
 
