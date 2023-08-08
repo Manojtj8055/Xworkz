@@ -1,4 +1,9 @@
-package com.xworkz.diamond;
+package com.xworkz.diamond.Runner;
+
+import com.xworkz.diamond.BtmCoolDrink;
+import com.xworkz.diamond.CokeCoolDrink;
+import com.xworkz.diamond.GoodDrink;
+import com.xworkz.diamond.PepsiCoolDrink;
 
 public class BtmCoolDrinkRunner {
 
