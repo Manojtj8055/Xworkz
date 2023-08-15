@@ -14,5 +14,13 @@ public interface CountryRepository {
 	
 	void findEndsWith(String name);
 	
+	String returnUpperCase(String name);
+
+   	void orderAscending();
+	
+	void orderDescending();
+
+	int savedCount(String[] arr);
+	
 	
 }

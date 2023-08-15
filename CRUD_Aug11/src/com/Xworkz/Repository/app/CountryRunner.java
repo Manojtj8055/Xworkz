@@ -33,10 +33,23 @@ public class CountryRunner {
 		repository.findStartsWith("S");
 		repository.findStartsWith("A");
 		
-		
-		
 		System.out.println("-----------------------------------------");
 		repository.findEndsWith("a");
+		
+		System.out.println("------------------------------------------");
+		repository.orderAscending();
+		
+		System.out.println("-------------------------------------------");
+		repository.orderDescending();
+		
+		System.out.println("--------------------------------------------");
+		repository.returnUpperCase("India");
+		
+		System.out.println("----------------------------------------");
+	
+		
+		/*System.out.println("---------------------------------------------");
+		repository.savedCount(store1); */
 	}
 
 }
